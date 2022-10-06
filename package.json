@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "bcryptjs": "2.4.3",
-    "graphql": "14.7.0",
+    "graphql": "16.6.0",
     "graphql-tag": "2.12.6",
     "graphql-tools": "4.0.8",
     "graphql-yoga": "1.18.3",
